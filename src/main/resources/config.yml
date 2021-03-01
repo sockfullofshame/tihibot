@@ -1,8 +1,8 @@
 reddit:
-  subreddit: "unexBotTest"
+  subreddit: "TIHI"
 
   credentials:
-    username: username
+    username: mahTABI2019
     clientID: id
     clientSecret: secret
     password: pw
@@ -41,7 +41,7 @@ reddit:
     commentBody: |
       **OP needs help. Also, he hates this post because...**
 
-      >!%{Reason}!<
+      >!%{Patrick from spongebob is fingering bob, shown through X-ray.}!<
 
       *****
       **Do you hate it as well? Do you think his anger is reasonable? (I don't think so tbh)**
